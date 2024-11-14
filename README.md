@@ -4,6 +4,7 @@ I'm Frontend & Game Development<br>I Like JKT48 With My Oshi Grace Octaviani<br>
 # 📸 Picture Oshi:
 
 <img src="https://i.pinimg.com/736x/29/89/bc/2989bcbceb6eacd08d5cb49664302c7f.jpg" width="200" height="350">
+<img src="https://i.pinimg.com/736x/aa/0d/28/aa0d2876f9377fc7679647b379f34dda.jpg" width="200" height="350">
 
 
 ## 🌐 Socials:
