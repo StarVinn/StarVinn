@@ -1,6 +1,10 @@
 # 💫 About Me:
 I'm Frontend & Game Development<br>I Like JKT48 With My Oshi Grace Octaviani<br>
 
+# 📸 Picture Oshi:
+
+<img src="https://i.pinimg.com/736x/29/89/bc/2989bcbceb6eacd08d5cb49664302c7f.jpg">
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/861775525700960298) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dementriadelvin) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://id.pinterest.com/dementriadelvin/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]((https://www.tiktok.com/@dementriadelvin)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DementriaD74543) 
