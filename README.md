@@ -18,9 +18,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=StarVinn&icon=7&color=1)](https://visitcount.itsvg.in)
 
-## My Project ..........
+# My Project :
 
-# 📸 Picture Oshi:
+## 📸 Picture Oshi:
 
 <div style="display: flex; justify-content: center;">
     <img src="https://i.pinimg.com/736x/29/89/bc/2989bcbceb6eacd08d5cb49664302c7f.jpg" width="200" height="350" alt="Image 1" style="margin-right: 10px;">
