@@ -25,7 +25,7 @@
 ## 📸 Picture Oshi:
 
 <div style="display: flex; justify-content: center;">
-    <img src="BACKGROUNDDESAIN1920x1080.png" width="640" height="360" alt="Image 1" style="margin-right: 10px;">
+    <img src="BACKGROUNDDESAIN1920x1080.png" width="426" height="240" alt="Image 1" style="margin-right: 10px;">
     <img src="https://i.pinimg.com/736x/aa/0d/28/aa0d2876f9377fc7679647b379f34dda.jpg" width="200" height="350" alt="Image 2">
     <img src="https://i.pinimg.com/736x/92/f3/a7/92f3a79f359ba878e1b7beb1c1f4fa7f.jpg" width="200" height="350" alt="Image 3">
     <img src="https://i.pinimg.com/736x/94/c2/57/94c257851fa48ad90fe1895c98b7cd0f.jpg" width="200" height="350" alt="Image 4">
