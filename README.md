@@ -15,6 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+---
+[![](https://visitcount.itsvg.in/api?id=StarVinn&icon=7&color=1)](https://visitcount.itsvg.in)
 
 # 📸 Picture Oshi:
 
@@ -25,8 +27,7 @@
     <img src="https://i.pinimg.com/736x/94/c2/57/94c257851fa48ad90fe1895c98b7cd0f.jpg" width="200" height="350" alt="Image 4">
     <img src="https://i.pinimg.com/736x/13/f7/ac/13f7ac356816fb83819caf8036230d26.jpg" width="200" height="350" alt="Image 5">
 </div>
----
-[![](https://visitcount.itsvg.in/api?id=StarVinn&icon=7&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
