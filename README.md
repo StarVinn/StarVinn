@@ -33,6 +33,7 @@ W.I.P
     <img src="Slide16_9.png" width="426" height="240" alt="Image 3">
     <img src="WallpaperNew2025.png" width="426" height="240" alt="Image 4">
     <img src="desain720x1280.png" width="200" height="350" alt="Image 5">
+    <img src="gita.png" width="200" height="350" alt="Image 6">
 </div>
 
 ### Favorite Desain :
