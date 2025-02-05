@@ -32,12 +32,14 @@
     <img src="Slide16_9.png" width="426" height="240" alt="Image 4">
     <img src="WallpaperNew2025.png" width="426" height="240" alt="Image 4">
 </div>
-### Favorite Desain :
-    <img src="https://i.pinimg.com/736x/aa/0d/28/aa0d2876f9377fc7679647b379f34dda.jpg" width="200" height="350" alt="Image 2">
-    <img src="https://i.pinimg.com/736x/92/f3/a7/92f3a79f359ba878e1b7beb1c1f4fa7f.jpg" width="200" height="350" alt="Image 3">
-    <img src="https://i.pinimg.com/736x/94/c2/57/94c257851fa48ad90fe1895c98b7cd0f.jpg" width="200" height="350" alt="Image 4">
-    <img src="https://i.pinimg.com/736x/13/f7/ac/13f7ac356816fb83819caf8036230d26.jpg" width="200" height="350" alt="Image 5">
 
+### Favorite Desain :
+<div style="display: flex; justify-content: center;">
+    <img src="https://i.pinimg.com/736x/aa/0d/28/aa0d2876f9377fc7679647b379f34dda.jpg" width="200" height="350" alt="Image 1">
+    <img src="https://i.pinimg.com/736x/92/f3/a7/92f3a79f359ba878e1b7beb1c1f4fa7f.jpg" width="200" height="350" alt="Image 2">
+    <img src="https://i.pinimg.com/736x/94/c2/57/94c257851fa48ad90fe1895c98b7cd0f.jpg" width="200" height="350" alt="Image 3">
+    <img src="https://i.pinimg.com/736x/13/f7/ac/13f7ac356816fb83819caf8036230d26.jpg" width="200" height="350" alt="Image 4">
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
