@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯I'm Tryhard & Humble Person<br>📸I Like JKT48 With My Oshi Grace Octaviani<br>
+🎯I'm Nice & Humble Person<br>📸I Like JKT48 With My Oshi Grace Octaviani<br>
 
 
 ## 🌐 Socials:
