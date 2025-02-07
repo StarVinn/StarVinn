@@ -24,7 +24,7 @@
 
 W.I.P
 
-## 📸 Picture Oshi:
+## 📸 JKT48 Side Project:
 
 ### Created By Me :
 <div style="display: flex; justify-content: center;">
@@ -36,14 +36,14 @@ W.I.P
     <img src="Gracie720x1280.png" width="200" height="350" alt="Image 6">
 </div>
 
-### Favorite Desain :
+<!-- ### Favorite Desain :
 <div style="display: flex; justify-content: center;">
     <img src="https://i.pinimg.com/736x/29/89/bc/2989bcbceb6eacd08d5cb49664302c7f.jpg" width="200" height="350" alt="Image 1">
     <img src="https://i.pinimg.com/736x/aa/0d/28/aa0d2876f9377fc7679647b379f34dda.jpg" width="200" height="350" alt="Image 2">
     <img src="https://i.pinimg.com/736x/92/f3/a7/92f3a79f359ba878e1b7beb1c1f4fa7f.jpg" width="200" height="350" alt="Image 3">
     <img src="https://i.pinimg.com/736x/94/c2/57/94c257851fa48ad90fe1895c98b7cd0f.jpg" width="200" height="350" alt="Image 4">
     <img src="https://i.pinimg.com/736x/13/f7/ac/13f7ac356816fb83819caf8036230d26.jpg" width="200" height="350" alt="Image 5">
-</div>
+</div> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
