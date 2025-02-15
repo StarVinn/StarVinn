@@ -1,8 +1,10 @@
 # 💫 About Me:
-🎯Hello, I'm Muhammad Delvin Dementria<br>📸I Like JKT48 With My Oshi Grace Octaviani<br>
+🎯Hello My Name Is Muhammad Delvin Dementria<br>
+🙌I'm Software And Game Developer<br>
 
 ## 📽️ My Hobby :
-🎤 Basket, Playing Guitar, Playing Video Games, Listening Music.
+🎤 Basket, Playing Guitar, Playing Video Games, Listening Music.<br>
+📸I Like JKT48 With My Oshi Grace Octaviani
 
 
 ## 🌐 My Socials:
