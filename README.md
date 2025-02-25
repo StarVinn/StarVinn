@@ -27,7 +27,13 @@
 
 ## School Project :
 
-W.I.P
+### Pemrograman Web Dasar (PWD):
+- [Test_Api_And_FrontEnd](https://github.com/StarVinn/Tugas_Fe_Api_Laravel)
+- [Restaurant_Management](https://github.com/StarVinn/RestaurantManagement)
+
+### Pemrograman Berbasis Object (PBO):
+- [Alquran_Api]() W.I.P
+- [Starbhak_Mart](https://github.com/StarVinn/pbo)
 
 ## 📸 JKT48 Side Project:
 
