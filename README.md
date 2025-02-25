@@ -5,6 +5,7 @@
 ## 📽️ My Hobby :
 🎤 Basket, Playing Guitar, Playing Video Games, Listening Music.<br>
 📸I Like JKT48 With My Oshi Grace Octaviani
+🚩Language: Indonesian,English,Japanese
 
 
 ## 🌐 My Socials:
@@ -25,19 +26,19 @@
 
 # 📽️My Project 
 
-## School Project :
+## 🏫School Project :
 
-### Pemrograman Web Dasar (PWD):
+### 🧑‍💻Pemrograman Web Dasar (PWD):
 - [Test_Api_And_FrontEnd](https://github.com/StarVinn/Tugas_Fe_Api_Laravel)
 - [Restaurant_Management](https://github.com/StarVinn/RestaurantManagement)
 
-### Pemrograman Berbasis Object (PBO):
+### 🧑‍💻Pemrograman Berbasis Object (PBO):
 - [Alquran_Api]() W.I.P
 - [Starbhak_Mart](https://github.com/StarVinn/pbo)
 
 ## 📸 JKT48 Side Project:
 
-### Created By Me :
+### 😇🎯Created By Me :
 <div style="display: flex; justify-content: center;">
     <img src="BACKGROUNDDESAIN1920x1080.png" width="426" height="240" alt="Image 1" style="margin-right: 10px;">
     <img src="desain1920x1080.png" width="426" height="240" alt="Image 2">
