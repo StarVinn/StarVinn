@@ -4,7 +4,7 @@
 
 ## 📽️ My Hobby :
 🎤 Basket, Playing Guitar, Playing Video Games, Listening Music.<br>
-📸I Like JKT48 With My Oshi Grace Octaviani
+📸I Like JKT48 With My Oshi Grace Octaviani.<br>
 🚩Language: Indonesian,English,Japanese
 
 
