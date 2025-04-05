@@ -60,7 +60,7 @@
 
 ### 😇🎯Created By Me :
 
-### System 
+### Website 
 - [JKT48_API](https://github.com/StarVinn/JKT48_API_MEMBERS)
 ### Wallpaper Desain
 <div style="display: flex; justify-content: center;">
