@@ -61,7 +61,7 @@
 ### 😇🎯Created By Me :
 
 ### Website 
-- [JKT48_API](https://github.com/StarVinn/JKT48_API_MEMBERS)
+- [JKT48_Website](https://github.com/StarVinn/JKT48_API_MEMBERS)
 ### Wallpaper Desain
 <div style="display: flex; justify-content: center;">
     <img src="photo/BACKGROUNDDESAIN1920x1080.png" width="250" height="141" alt="First Project">
