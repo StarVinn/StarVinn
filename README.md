@@ -70,6 +70,7 @@
     <img src="photo/desain1920x1080.png" width="250" height="141" alt="Project Gabut">
     <img src="photo/Slide16_9.png" width="250" height="141" alt="Project Temen">
     <img src="photo/WallpaperNew2025.png" width="250" height="141" alt="Project Gabut"><br>
+    <img src="photo/michie.png" width="250" height="141" alt="Project Gabut"><br>
     <img src="photo/desain720x1280.png" width="140" height="245" alt="Project Handphone">
     <img src="photo/Gracie720x1280.png" width="140" height="245" alt="Project Handphone Part 2">
 </div>
