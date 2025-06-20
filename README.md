@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🎯Hello My Name Is Muhammad Delvin Dementria<br>
-🙌I'm Software And Game Developer<br>
+🙌I'm From Taruna Bhakti Vocational School, Software And Game Development<br>
 
 ## 📽️ My Hobby :
 
