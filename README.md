@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # 💫 About Me:
 
 🎯Hello My Name Is Muhammad Delvin Dementria<br>
@@ -36,6 +38,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=StarVinn&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -57,6 +61,8 @@
 - [Alquran_Api](https://github.com/StarVinn/flutter-api-alquran)
 - [Starbhak_Mart](https://github.com/StarVinn/pbo)
 - [Sisfo_Sarpras_Mobile](https://github.com/StarVinn/sisfo-sarpras-mobile)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  JKT48 Side Project:
 
