@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🎯Hello My Name Is Muhammad Delvin Dementria<br>
-🙌I'm From Taruna Bhakti Vocational School, Software And Game Development<br>
+🙌I'm From Taruna Bhakti Vocational School, Software And Game Development <br>
 
 ## 📽️ My Hobby :
 
@@ -84,11 +84,4 @@
     <img src="https://i.pinimg.com/736x/94/c2/57/94c257851fa48ad90fe1895c98b7cd0f.jpg" width="200" height="350" alt="Image 4">
     <img src="https://i.pinimg.com/736x/13/f7/ac/13f7ac356816fb83819caf8036230d26.jpg" width="200" height="350" alt="Image 5">
 </div> -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-StarVinn/StarVinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
