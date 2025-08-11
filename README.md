@@ -50,8 +50,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🌐 Contact Me:
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/861775525700960298)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dementriadelvin)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://id.pinterest.com/dementriadelvin/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@dementriadelvin)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DementriaD74543)
+
 # 📽️My Project
 
+## 😊Portofolio Website
+- [Portofolio-Website](https://starvinn.github.io/Portofolio-Website/)
 ## 🏫School Project :
 
 ### 🧑‍💻Pemrograman Web Dasar (PWD):
@@ -89,7 +99,6 @@
     <img src="photo/Gracie720x1280.png" width="140" height="245" alt="Project Handphone Part 2">
 </div>
 
-## 🌐 Contact Me:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/861775525700960298)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dementriadelvin)
