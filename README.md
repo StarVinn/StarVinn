@@ -68,17 +68,17 @@
 ### 🧑‍💻Pemrograman Web Dasar (PWD):
 | Project Name          | Repository Link                                                 | Contributors  | Language / Framework           |
 | --------------------- | --------------------------------------------------------------- | ------------- | ------------------------------ |
-| Test API and Frontend | [Test_Api_And_FrontEnd](https://github.com/StarVinn/Tugas_Fe_Api_Laravel) | Delvin & Team | Laravel, Tailwind CSS, JavaScript    |
-| Restaurant Management | [Restaurant_Management](https://github.com/StarVinn/RestaurantManagement) | Delvin & Team | Laravel, Tailwind CSS             |
-| SISFO SARPRAS Web     | [Sisfo_Sarpras_Web](https://github.com/StarVinn/sisfo-sarpras-web)    | Delvin & Team | Laravel, Tailwind CSS, JavaScript         |
+| Test API and Frontend | [Test_Api_And_FrontEnd](https://github.com/StarVinn/Tugas_Fe_Api_Laravel) | Delvin | Laravel, Tailwind CSS, JavaScript    |
+| Restaurant Management | [Restaurant_Management](https://github.com/StarVinn/RestaurantManagement) | Delvin | Laravel, Tailwind CSS             |
+| SISFO SARPRAS Web     | [Sisfo_Sarpras_Web](https://github.com/StarVinn/sisfo-sarpras-web)    | Delvin | Laravel, Tailwind CSS, JavaScript         |
 
 
 ### 🧑‍💻Pemrograman Berbasis Object (PBO):
 | Project Name         | Repository Link                                                 | Contributors  | Language / Framework |
 | -------------------- | --------------------------------------------------------------- | ------------- | -------------------- |
-| Al-Quran API         | [Alquran_Api](https://github.com/StarVinn/flutter-api-alquran)  | Delvin & Team | Flutter, Dart        |
-| Starbhak Mart        | [Starbhak_Mart](https://github.com/StarVinn/pbo)                  | Delvin & Team | Flutter, Dart          |
-| SISFO SARPRAS Mobile | [Sisfo_Sarpras_Mobile](https://github.com/StarVinn/sisfo-sarpras-mobile) | Delvin & Team | Flutter, Dart        |
+| Al-Quran API         | [Alquran_Api](https://github.com/StarVinn/flutter-api-alquran)  | Delvin | Flutter, Dart        |
+| Starbhak Mart        | [Starbhak_Mart](https://github.com/StarVinn/pbo)                  | Delvin | Flutter, Dart          |
+| SISFO SARPRAS Mobile | [Sisfo_Sarpras_Mobile](https://github.com/StarVinn/sisfo-sarpras-mobile) | Delvin | Flutter, Dart        |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
