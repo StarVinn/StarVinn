@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+👋,+It's Me+Delvin;Junior+FullStack+Developer;Welcome+To+My+GitHub!">
 </p>
 
@@ -11,13 +11,13 @@
 📸 I’m a fan of JKT48, and my oshi is Grace Octaviani.  
 🚩 Languages: Indonesian, English, Japanese.  
 
-[![Discord](https://img.shields.io/badge/Discord-000000?style=social&logo=discord)](https://discord.gg/861775525700960298)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram)](https://instagram.com/dementriadelvin)
-[![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=social&logo=pinterest)](https://id.pinterest.com/dementriadelvin/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=social&logo=tiktok)](https://www.tiktok.com/@dementriadelvin)
-[![X](https://img.shields.io/badge/X-000000?style=social&logo=x)](https://x.com/DementriaD74543)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=social&logo=linkedin)](https://linkedin.com/in/delvin-dementria-716012374)
-[![Email](https://img.shields.io/badge/Gmail-000000?style=social&logo=gmail)](mailto:dementriadelvin22@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=social&logo=discord)](https://discord.gg/861775525700960298)<br>
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram)](https://instagram.com/dementriadelvin)<br>
+[![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=social&logo=pinterest)](https://id.pinterest.com/dementriadelvin/)<br>
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=social&logo=tiktok)](https://www.tiktok.com/@dementriadelvin)<br>
+[![X](https://img.shields.io/badge/X-000000?style=social&logo=x)](https://x.com/DementriaD74543)<br>
+[![Email](https://img.shields.io/badge/Gmail-000000?style=social&logo=gmail)](mailto:dementriadelvin22@gmail.com)<br> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/delvin-dementria-716012374)
 
 ---
 
