@@ -1,5 +1,8 @@
-<img src="photo/github-header-banner.png">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+👋,+It's Me+Delvin;Junior+FullStack+Developer;Welcome+To+My+GitHub!">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 # 💫 About Me:
 
@@ -8,13 +11,13 @@
 📸 I’m a fan of JKT48, and my oshi is Grace Octaviani.  
 🚩 Languages: Indonesian, English, Japanese.  
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/861775525700960298)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dementriadelvin)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://id.pinterest.com/dementriadelvin/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@dementriadelvin)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DementriaD74543)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/delvin-dementria-716012374)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dementriadelvin22@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=social&logo=discord)](https://discord.gg/861775525700960298)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram)](https://instagram.com/dementriadelvin)
+[![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=social&logo=pinterest)](https://id.pinterest.com/dementriadelvin/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=social&logo=tiktok)](https://www.tiktok.com/@dementriadelvin)
+[![X](https://img.shields.io/badge/X-000000?style=social&logo=x)](https://x.com/DementriaD74543)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=social&logo=linkedin)](https://linkedin.com/in/delvin-dementria-716012374)
+[![Email](https://img.shields.io/badge/Gmail-000000?style=social&logo=gmail)](mailto:dementriadelvin22@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -62,23 +65,25 @@
 # 📽️My Project
 
 ## 😊Portofolio Website
-- [Portofolio-Website](https://starvinn.github.io/Portofolio-Website/)
-## 🏫School Project :
+- 🔗[**Portofolio-Website**](https://starvinn.github.io/Portofolio-Website/) 🛠 HTML · TailwindCSS
+## 🏫 School Projects
 
-### 🧑‍💻Pemrograman Web Dasar (PWD):
-| Project Name          | Repository Link                                                 | Contributors  | Language / Framework           |
-| --------------------- | --------------------------------------------------------------- | ------------- | ------------------------------ |
-| Test API and Frontend | [Test_Api_And_FrontEnd](https://github.com/StarVinn/Tugas_Fe_Api_Laravel) | Delvin | Laravel, Tailwind CSS, JavaScript    |
-| Restaurant Management | [Restaurant_Management](https://github.com/StarVinn/RestaurantManagement) | Delvin | Laravel, Tailwind CSS             |
-| SISFO SARPRAS Web     | [Sisfo_Sarpras_Web](https://github.com/StarVinn/sisfo-sarpras-web)    | Delvin | Laravel, Tailwind CSS, JavaScript         |
+### 🧑‍💻 Pemrograman Web Dasar (PWD)
+- 🔗 [**Test API and Frontend**](https://github.com/StarVinn/Tugas_Fe_Api_Laravel) 🛠 Laravel · Tailwind CSS · JavaScript  
 
+- 🔗 [**Restaurant Management**](https://github.com/StarVinn/RestaurantManagement) 🛠 Laravel · Tailwind CSS  
 
-### 🧑‍💻Pemrograman Berbasis Object (PBO):
-| Project Name         | Repository Link                                                 | Contributors  | Language / Framework |
-| -------------------- | --------------------------------------------------------------- | ------------- | -------------------- |
-| Al-Quran API         | [Alquran_Api](https://github.com/StarVinn/flutter-api-alquran)  | Delvin | Flutter, Dart        |
-| Starbhak Mart        | [Starbhak_Mart](https://github.com/StarVinn/pbo)                  | Delvin | Flutter, Dart          |
-| SISFO SARPRAS Mobile | [Sisfo_Sarpras_Mobile](https://github.com/StarVinn/sisfo-sarpras-mobile) | Delvin | Flutter, Dart        |
+- 🔗 [**SISFO SARPRAS Web**](https://github.com/StarVinn/sisfo-sarpras-web) 🛠 Laravel · Tailwind CSS · JavaScript  
+
+---
+
+### 🧑‍💻 Pemrograman Berbasis Object (PBO)
+- 🔗 [**Al-Quran API**](https://github.com/StarVinn/flutter-api-alquran) 📱 Flutter · Dart  
+
+- 🔗 [**Starbhak Mart**](https://github.com/StarVinn/pbo) 📱 Flutter · Dart  
+
+- 🔗 [**SISFO SARPRAS Mobile**](https://github.com/StarVinn/sisfo-sarpras-mobile)📱 Flutter · Dart
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -87,7 +92,8 @@
 ### 😇🎯Created By Me :
 
 ### Website 
-- [JKT48_Website](https://github.com/StarVinn/JKT48_API_MEMBERS)
+- 🔗[**JKT48_Represented_Website**](https://github.com/StarVinn/JKT48_API_MEMBERS)
+
 ### Wallpaper Desain
 <div style="display: flex; justify-content: center;">
     <img src="photo/BACKGROUNDDESAIN1920x1080.png" width="250" height="141" alt="First Project">
