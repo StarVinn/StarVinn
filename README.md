@@ -19,7 +19,7 @@
 ### 🎯 Quick Intro
 - 🎤 Hobbies: basketball, guitar, video games, and music  
 - 🎮 Fun fact: I can spend **5+ hours straight** only fixing error's  
-- 📸 Fan of **JKT48** — my oshi is *Grace Octaviani*  
+- 📸 Fan of **JKT48** — My oshi is *Grace Octaviani*  
 - 🚩 Languages I speak: Indonesian, English, Japanese  
 
 ### 🌐 Connect With Me
@@ -27,7 +27,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram)](https://instagram.com/dementriadelvin)
 [![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=social&logo=pinterest)](https://id.pinterest.com/dementriadelvin/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=social&logo=tiktok)](https://www.tiktok.com/@dementriadelvin)
-[![X](https://img.shields.io/badge/X-000000?style=social&logo=x)](https://x.com/DementriaD74543)  
+[![X](https://img.shields.io/badge/X-000000?style=social&logo=x)](https://x.com/DementriaD74543)
 [![Email](https://img.shields.io/badge/Gmail-000000?style=social&logo=gmail)](mailto:dementriadelvin22@gmail.com)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/delvin-dementria-716012374)
 
@@ -118,7 +118,7 @@
 ### Website 
 - 🔗[**JKT48_Represented_Website**](https://github.com/StarVinn/JKT48_API_MEMBERS) 🛠 Laravel · PHP · TailwindCSS · API
 
-### Wallpaper Desain
+### My Wallpaper Desain
 <p align="center">
   <img src="https://raw.githubusercontent.com/StarVinn/StarVinn/main/photo/Desain tanpa judul.gif" width="full" height="full"/>
 </p>
