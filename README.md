@@ -1,8 +1,13 @@
+<!--HEADER-->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+👋,+It's Me+Delvin;Junior+FullStack+Developer;Welcome+To+My+GitHub!">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<!--END HEADER-->
+
+<!--About Me-->
 
 # 💫 About Me:
 
@@ -21,6 +26,9 @@
 
 ---
 
+<!--END About Me-->
+
+<!--Tech Stack-->
 # 💻 Tech Stack:
 
 ### 🎨 Frontend
@@ -52,6 +60,10 @@
 
 ---
 
+<!--END Tech Stack-->
+
+<!--Stats-->
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StarVinn&theme=synthwave&hide_border=false)<br/>
@@ -60,6 +72,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
+<!--END Stats-->
+
+<!--Portofolio Project-->
 # 📽️My Project
 
 ## 😊Portofolio Website
@@ -85,6 +100,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--END Portofolio Project-->
+
+<!--JKT48 Project-->
+
 ##  JKT48 Side Project:
 
 ### 😇🎯Created By Me :
@@ -103,6 +122,8 @@
     <img src="photo/desain720x1280.png" width="140" height="245" alt="Project Handphone">
     <img src="photo/Gracie720x1280.png" width="140" height="245" alt="Project Handphone Part 2">
 </div>
+
+<!--END JKT48 Project-->
 
 
 <!-- ### Favorite Desain :
