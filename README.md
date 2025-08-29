@@ -119,16 +119,9 @@
 - 🔗[**JKT48_Represented_Website**](https://github.com/StarVinn/JKT48_API_MEMBERS) 🛠 Laravel · PHP · TailwindCSS · API
 
 ### Wallpaper Desain
-<div style="display: flex; justify-content: center;">
-    <img src="photo/BACKGROUNDDESAIN1920x1080.png" width="250" height="141" alt="First Project">
-    <img src="photo/desain1920x1080.png" width="250" height="141" alt="Project Gabut">
-    <img src="photo/Slide16_9.png" width="250" height="141" alt="Project Temen">
-    <img src="photo/WallpaperNew2025.png" width="250" height="141" alt="Project Gabut">
-    <img src="photo/michie.png" width="250" height="141" alt="Project Gabut">
-    <img src="photo/070625.png" width="250" height="141" alt="Project Gabut"><br>
-    <img src="photo/desain720x1280.png" width="140" height="245" alt="Project Handphone">
-    <img src="photo/Gracie720x1280.png" width="140" height="245" alt="Project Handphone Part 2">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StarVinn/StarVinn/main/photo/Desain tanpa judul.gif" width="full" height="full"/>
+</p>
 
 <!--END JKT48 Project-->
 
