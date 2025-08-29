@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=social&logo=linkedin)](https://linkedin.com/in/delvin-dementria-716012374)
 [![Email](https://img.shields.io/badge/Gmail-000000?style=social&logo=gmail)](mailto:dementriadelvin22@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 # 💻 Tech Stack:
 
@@ -51,8 +51,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📊 GitHub Stats:
 
@@ -92,7 +90,7 @@
 ### 😇🎯Created By Me :
 
 ### Website 
-- 🔗[**JKT48_Represented_Website**](https://github.com/StarVinn/JKT48_API_MEMBERS)
+- 🔗[**JKT48_Represented_Website**](https://github.com/StarVinn/JKT48_API_MEMBERS) 🛠 Laravel · PHP · TailwindCSS · API
 
 ### Wallpaper Desain
 <div style="display: flex; justify-content: center;">
