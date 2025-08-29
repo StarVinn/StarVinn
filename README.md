@@ -1,7 +1,7 @@
 <!--HEADER-->
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&pause=1000&center=true&vCenter=true&random=true&width=500&lines=Hello+%F0%9F%91%8B%2C+It's+Me+Delvin;%F0%9F%92%BB+Junior+FullStack+Developer+%F0%9F%92%BB;%E2%9C%8C%EF%B8%8FWelcome+To+My+Github+%E2%9C%8C%EF%B8%8F;%F0%9F%92%BB+Software+Engineer+%F0%9F%92%BB;%F0%9F%90%87%22Sweet+as+candy%2C+Cute+as+a+bunny%22%F0%9F%90%87;%F0%9F%8C%91%22Till+infinity+and+Beyond%22%F0%9F%8C%9C" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=50&pause=1000&center=true&vCenter=true&random=true&width=700&lines=Hello+%F0%9F%91%8B%2C+It's+Me+Delvin;%F0%9F%92%BB+Junior+FullStack+Developer+%F0%9F%92%BB;%E2%9C%8C%EF%B8%8FWelcome+To+My+Github+%E2%9C%8C%EF%B8%8F;%F0%9F%92%BB+Software+Engineer+%F0%9F%92%BB;%F0%9F%90%87%22Sweet+as+candy%2C+Cute+as+a+bunny%22%F0%9F%90%87;%F0%9F%8C%91%22Till+infinity+and+Beyond%22%F0%9F%8C%9C" alt="Typing SVG" /></a>
 </p>
 
 
