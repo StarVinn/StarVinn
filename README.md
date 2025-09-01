@@ -21,8 +21,6 @@
 
 👋 Hi there! I'm **Muhammad Delvin Dementria**  
 💻 A passionate **Junior Fullstack Developer** & **Software Enthusiast**  
-
-### 🎯 Quick Intro
 - 🚀 Keep improving skill & knowlegde
 - 🎮 Fun fact: I can spend **5+ hours straight** only fixing error's  
 - 📸 Fan of **JKT48** — My oshi is *Grace Octaviani*  
