@@ -100,9 +100,9 @@
   
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StarVinn&theme=radical" alt="Profile Summary" width="90%"/>
-</div>
+</div> -->
 
 
 
