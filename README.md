@@ -1,42 +1,48 @@
 <!--HEADER-->
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=50&pause=1000&center=true&vCenter=true&random=true&width=700&lines=Hello+%F0%9F%91%8B%2C+It's+Me+Delvin;%F0%9F%92%BB+Junior+FullStack+Developer+%F0%9F%92%BB;%E2%9C%8C%EF%B8%8FWelcome+To+My+Github+%E2%9C%8C%EF%B8%8F;%F0%9F%92%BB+Software+Engineer+%F0%9F%92%BB;%F0%9F%90%87%22Sweet+as+candy%2C+Cute+as+a+bunny%22%F0%9F%90%87;%F0%9F%8C%91%22Till+infinity+and+Beyond%22%F0%9F%8C%9C" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=50&pause=1000&center=true&vCenter=true&random=true&width=700&lines=Hello+%F0%9F%91%8B%2C+It's+Me+Delvin;%F0%9F%92%BB+Junior+FullStack+Developer+%F0%9F%92%BB;%E2%9C%8C%EF%B8%8FWelcome+To+My+Github+%E2%9C%8C%EF%B8%8F;%F0%9F%92%BB+Software+Engineer+%F0%9F%92%BB;" alt="Typing SVG" /></a>
 </p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=50&pause=1000&center=true&vCenter=true&random=true&width=700&lines=%F0%9F%90%87%22Sweet+as+candy%2C+Cute+as+a+bunny%22%F0%9F%90%87;%F0%9F%8C%91%22Till+infinity+and+Beyond%22%F0%9F%8C%9C" alt="Typing SVG" /></a>
+</p>
 <!--END HEADER-->
 
 <!--About Me-->
 
-# 💫 About Me:
+
+## 💫 About Me:
 
 👋 Hi there! I'm **Muhammad Delvin Dementria**  
 💻 A passionate **Junior Fullstack Developer** & **Software Enthusiast**  
 
 ### 🎯 Quick Intro
-- 🎤 Hobbies: basketball, guitar, video games, and music  
+- 🚀 Keep improving skill & knowlegde
 - 🎮 Fun fact: I can spend **5+ hours straight** only fixing error's  
 - 📸 Fan of **JKT48** — My oshi is *Grace Octaviani*  
 - 🚩 Languages I speak: Indonesian, English, Japanese  
 
 ### 🌐 Connect With Me
-[![Discord](https://img.shields.io/badge/Discord-000000?style=social&logo=discord)](https://discord.gg/861775525700960298)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram)](https://instagram.com/dementriadelvin)
-[![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=social&logo=pinterest)](https://id.pinterest.com/dementriadelvin/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=social&logo=tiktok)](https://www.tiktok.com/@dementriadelvin)
-[![X](https://img.shields.io/badge/X-000000?style=social&logo=x)](https://x.com/DementriaD74543)
-[![Email](https://img.shields.io/badge/Gmail-000000?style=social&logo=gmail)](mailto:dementriadelvin22@gmail.com)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/delvin-dementria-716012374)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord)](https://discord.gg/861775525700960298)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram)](https://instagram.com/dementriadelvin)
+[![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest)](https://id.pinterest.com/dementriadelvin/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@dementriadelvin)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/DementriaD74543)
+[![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail)](mailto:dementriadelvin22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/delvin-dementria-716012374)
 
----
 
 <!--END About Me-->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 <!--Tech Stack-->
-# 💻 Tech Stack:
+# 💻 Tech Stack & Skills
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,23 +71,46 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
----
+
 
 <!--END Tech Stack-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!--Stats-->
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=StarVinn&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StarVinn&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=StarVinn&show_icons=true&theme=synthwave)
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=StarVinn&show_icons=true&theme=synthwave">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarVinn&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+
+</div>
+
+<div align="center">
+
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><br>
+
+ <img width="80%" src="https://github-profile-trophy.vercel.app/?username=StarVinn&theme=darkhub&row=1&column=5&margin-h=15&margin-w=5&no-bg=true">
+
+ </a>
+  
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StarVinn&theme=radical" alt="Profile Summary" width="90%" />
+</div>
+
+
 
 <!--END Stats-->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 <!--Portofolio Project-->
+
 # 📽️My Project
 
 ## 😊Portofolio Website
