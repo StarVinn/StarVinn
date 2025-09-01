@@ -1,4 +1,5 @@
 <!--HEADER-->
+<br>
 <p align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=55&pause=1000&center=true&vCenter=true&random=true&width=800&lines=Hello+%F0%9F%91%8B%2C+It's+Me+Delvin;%F0%9F%92%BB+Junior+FullStack+Developer+%F0%9F%92%BB;%E2%9C%8C%EF%B8%8FWelcome+To+My+Github+%E2%9C%8C%EF%B8%8F;%F0%9F%92%BB+Software+Engineer+%F0%9F%92%BB;" alt="Typing SVG" /></a>
@@ -83,24 +84,24 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=StarVinn&show_icons=true&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api?username=StarVinn&show_icons=true&theme=synthwave" alt="Stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarVinn&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarVinn&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Lang">
 
 </div>
 
 <div align="center">
 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><br>
+ <a href="https://github.com/ryo-ma/github-profile-trophy" ><br>
 
- <img width="80%" src="https://github-profile-trophy.vercel.app/?username=StarVinn&theme=darkhub&row=1&column=5&margin-h=15&margin-w=5&no-bg=true">
+ <img width="80%" src="https://github-profile-trophy.vercel.app/?username=StarVinn&theme=darkhub&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="Trophy">
 
  </a>
   
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StarVinn&theme=radical" alt="Profile Summary" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StarVinn&theme=radical" alt="Profile Summary" width="90%"/>
 </div>
 
 
