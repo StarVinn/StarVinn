@@ -43,21 +43,38 @@
 <!--Tech Stack-->
 # 💻 Tech Stack & Skills
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+<details open>
+  <summary><b>🎨 Frontend</b></summary>
+  <br>
+  <p align="left">
+    <a href="#">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    </a>
+  </p>
 
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</details>
+
+<details open>
+  <summary><b>⚙️ Backend</b></summary>
+  <br>
+  <p align="left">
+    <a href="#">
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" >
+      <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript">
+      <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS">
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    </a>
+  </p>
+
+</details>
+
 
 ### 📱 Mobile
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -113,10 +130,13 @@
 # 📽️My Project
 
 ## 😊Portofolio Website
+
 - 🔗[**Portofolio-Website**](https://starvinn.github.io/Portofolio-Website/) 🛠 HTML · TailwindCSS
+
 ## 🏫 School Projects
 
 ### 🧑‍💻 Pemrograman Web Dasar (PWD)
+
 - 🔗 [**Test API and Frontend**](https://github.com/StarVinn/Tugas_Fe_Api_Laravel) 🛠 Laravel · Tailwind CSS · JavaScript  
 
 - 🔗 [**Restaurant Management**](https://github.com/StarVinn/RestaurantManagement) 🛠 Laravel · Tailwind CSS  
@@ -126,6 +146,7 @@
 ---
 
 ### 🧑‍💻 Pemrograman Berbasis Object (PBO)
+
 - 🔗 [**Al-Quran API**](https://github.com/StarVinn/flutter-api-alquran) 📱 Flutter · Dart  
 
 - 🔗 [**Starbhak Mart**](https://github.com/StarVinn/pbo) 📱 Flutter · Dart  
@@ -144,9 +165,11 @@
 ### 😇🎯Created By Me :
 
 ### Website 
+
 - 🔗[**JKT48_Represented_Website**](https://github.com/StarVinn/JKT48_API_MEMBERS) 🛠 Laravel · PHP · TailwindCSS · API
 
 ### My Wallpaper Desain
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/StarVinn/StarVinn/main/photo/Desain tanpa judul.gif" width="full" height="full"/>
 </p>
