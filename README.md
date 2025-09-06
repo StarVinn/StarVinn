@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=50&pause=1000&center=true&vCenter=true&random=true&width=700&lines=%F0%9F%90%87%22Sweet+as+candy%2C+Cute+as+a+bunny%22%F0%9F%90%87;%F0%9F%8C%91%22Till+infinity+and+Beyond%22%F0%9F%8C%9C" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=50&pause=1000&center=true&vCenter=true&random=true&width=700&lines=%F0%9F%90%87%22Sweet+as+candy%2C+Cute+as+a+bunny%22%F0%9F%A5%95;%F0%9F%8C%91%22Till+infinity+and+Beyond%22%F0%9F%8C%9C" alt="Typing SVG" /></a>
 </p>
 <!--END HEADER-->
 
