@@ -26,6 +26,7 @@
 - 📸 Fan of **JKT48** — My oshi is *Grace Octaviani*  
 - 🚩 Languages I speak: Indonesian, English, Japanese  
 
+
 ### 🌐 Connect With Me
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord)](https://discord.gg/861775525700960298)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram)](https://instagram.com/dementriadelvin)
